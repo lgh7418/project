@@ -1,0 +1,17 @@
+.join-form {
+    margin: 30vh auto 0 auto;
+    width: 300px;
+}
+
+.join-table .form-control {
+    width: 300px;
+}
+
+.join-form tr {
+    padding-bottom: 20px;
+}
+
+.join-table {
+    border-collapse: separate;
+    border-spacing: 10px;
+}

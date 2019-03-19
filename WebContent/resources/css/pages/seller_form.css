@@ -1,0 +1,36 @@
+.blog-wrapper {
+    width: 90%;
+    max-width: 1400px;
+    height: 90vh;
+	margin: 0 auto;
+
+}
+
+.sell iframe {
+    width: 90%;
+    height: 90vh;
+    max-width: 950px;
+}
+
+.sell article {
+	margin-top: 10px;
+	width: 35%;
+    float: left;
+} 
+
+.sell aside {
+    width: 60%;
+    margin-top: 15vh;
+    float: right;
+}
+
+table th {
+	font-weight: bold;
+}
+
+.product {
+	margin-bottom: 50px;
+}
+.input-group.sm {
+	width: 150px;
+}

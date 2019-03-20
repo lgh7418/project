@@ -1,0 +1,21 @@
+https://www.toptal.com/designers/subtlepatterns/new-year/
+
+
+주문자
+상품명 입력 폼 다음에
+배송 정보 입력
+--배송 정보는 내 주소에 자동 저장됩니다. (주소 여러개 가능하게)
+// 기본 배송지로 설정 checked
+
+
+메인 페이지
+반으로 잘라서(사선) 오른쪽에 버튼 배치
+
+
+판매자 썸네일 등록(...)
+
+프로필 사진 등록
+
+사이트
+https://www.siteinspire.com/websites/8522-vpet
+https://www.siteinspire.com/websites/8436-gget

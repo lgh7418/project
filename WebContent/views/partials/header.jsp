@@ -27,7 +27,7 @@
       </ul>
     </nav> -->
 	<!-- <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark"> -->
-    	<a class="navbar-brand" href="#" >LOGO</a>
+    	<a class="navbar-brand" href="main2.jsp" >LOGO</a>
     	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle Navigation">
 			<span class="navbar-toggler-icon"></span>
 		</button>	
@@ -43,7 +43,7 @@
 					<a class="nav-link" href="seller.jsp">판매하기</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="seller.jsp">Q</a>
+					<a class="nav-link" href="seller.jsp">문의하기</a>
 				</li>
 			</ul>
 		</div>	

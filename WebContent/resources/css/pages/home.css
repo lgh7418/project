@@ -36,3 +36,8 @@ body {
 /* .select-btn {
 	display
 } */
+.home {
+  height: 100vh;
+  margin: 0;
+  clip-path: polygon(0 0, 60% 0, 40% 100%, 0% 100%);
+}

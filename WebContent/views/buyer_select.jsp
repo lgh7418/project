@@ -4,7 +4,7 @@
 <div class="container">
 	<div class="row">
 		<div class="col-12 col-md-8">
-			<iframe src="https://m.blog.naver.com/s486s012/221464384000" class="blog-box" frameborder="0"></iframe>
+			<iframe src="https://m.blog.naver.com/s486s012/221464384000" class="blog-box" id="blog-box" frameborder="0"></iframe>
 		</div>
 		<div class="col-6 col-md-4">
 			<!-- 상품명, 수량, 전하실 말씀(요구사항), 장바구니에 담기 -->

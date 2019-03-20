@@ -13,7 +13,7 @@
   <tbody>
     <tr>
       <th scope="row" class="sm">1</th>
-      <td>김뫄뫄님의 주문서</td>
+      <td>치유의 빵</td>
       <td></td>
       <td></td>
     </tr>

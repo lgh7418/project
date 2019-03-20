@@ -1,0 +1,17 @@
+.seller p {
+	text-align: center;
+}
+
+.seller {
+	margin-top: 35vh;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	min-width: 300px;
+	max-width: 750px;
+}
+
+.seller a {
+	width: 70px;
+	margin-top: 10vh;
+}

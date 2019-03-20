@@ -29,6 +29,10 @@ body {
     width: 150px;
 }
 
-.leftBtn {
+.select-btn a:first-child {
     margin-right: 20px;
 }
+
+/* .select-btn {
+	display
+} */

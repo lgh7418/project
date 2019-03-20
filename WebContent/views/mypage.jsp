@@ -17,6 +17,7 @@
 	      	<%@include file="partials/buy1.jsp" %>
 	      </div>
 	      <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
+	      	<%@include file="partials/buy_info.jsp" %>
 	      </div>
 	      <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
 	      	<%@include file="partials/sell1.jsp" %>
@@ -25,7 +26,7 @@
 	    </div>
 	  </div>
 	</div>
-	
  </div>
-
+</body>
+</html>
   

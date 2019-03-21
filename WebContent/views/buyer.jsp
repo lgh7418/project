@@ -4,10 +4,16 @@
     <div class="seller">
       <p>구매하실 물건이 있는 페이지의 주소를 입력하세요.</p>
       <p>예) https://blog.naver.com/s486s012</p>
-      <input type="text" name="url" class="form-control" id="">
+      <div class="input-group">
+		  <input type="text" class="form-control" placeholder="주소 입력" aria-label="Recipient's username" aria-describedby="button-addon2">
+		  <div class="input-group-append">
+		    <a href="buyer_select.jsp" class="btn btn-outline-secondary" role="button" id="button-addon2">다음</a>
+		  </div>
+	  </div>
+<!--       <input type="text" name="url" class="form-control" id="">
       <a class="btn btn-primary float-right" href="buyer_select.jsp" role="button">
       	<i class="fas fa-arrow-right"></i>
-      </a>
+      </a> -->
       <!-- 주소 또는 판매자 아이디나 닉네임 입력하게 해서 아이디 입력하면 해당 판매자가 판매 중인 물품 나오게 -->
     </div>
 </body>

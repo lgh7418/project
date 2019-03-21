@@ -7,7 +7,7 @@
       <div class="input-group">
 		  <input type="text" class="form-control" placeholder="주소 입력" aria-label="Recipient's username" aria-describedby="button-addon2">
 		  <div class="input-group-append">
-		    <a href="buyer_select.jsp" class="btn btn-outline-secondary" role="button" id="button-addon2">다음</a>
+		    <a href="buyer_select.jsp" class="btn btn-primary b-next" role="button" id="button-addon2">다음</a>
 		  </div>
 	  </div>
 <!--       <input type="text" name="url" class="form-control" id="">

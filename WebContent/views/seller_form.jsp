@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@include file="partials/header.jsp" %>
 
-  <div class="blog-wrapper sell">
+  <div class="page-wrapper sell">
     <!-- 셀러 페이지에서는 iframe 사이즈를 더 줄이자 -->
     <article>
       <iframe src="https://m.blog.naver.com/s486s012/221464384000" frameborder="0"></iframe>

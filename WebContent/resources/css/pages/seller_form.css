@@ -28,6 +28,11 @@
     padding-left: 7%;
 }
 
+.sell p {
+    color: #4F86C6;
+    font-size: 1.2rem;
+}
+
 table {
     background-color: #fff;
 }
@@ -40,9 +45,21 @@ table td:last-child{
     width: 20%;
 }
 
+.table td {
+    padding: 0;
+}
+
+.table td input {
+    border-radius: 0;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+
 .product {
 	margin-bottom: 50px;
 }
+
 .input-group {
 	width: 150px;
 }

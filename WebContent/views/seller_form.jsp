@@ -19,8 +19,8 @@
             </thead>
             <tbody>
                 <tr>
-                  <td>좋은 상품</td>
-                  <td>10000</td>
+                  <td><input type="text" class="form-control" name="goods_name"></td>
+                  <td><input type="text" class="form-control" name="goods_price"></td>
                 </tr>
                </tbody>
           </table>

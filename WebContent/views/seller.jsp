@@ -1,5 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@include file="partials/header.jsp" %>
+  <div class="content-block">
     <div class="seller">
       <p>판매하실 물건이 있는 페이지의 주소를 입력하세요.</p>
       <p>예) https://blog.naver.com/s486s012</p>
@@ -10,5 +11,6 @@
 		  </div>
 	  </div>
     </div>
+  </div>
 </body>
 </html>

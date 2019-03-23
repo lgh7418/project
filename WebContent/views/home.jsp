@@ -11,13 +11,15 @@
     <script src="main.js"></script>
 </head>
 <body>
-    <div class="main">
+    <div class="home">
+        <div class="container">
         <header>
             <h1 class="logo">편리한 주문, sitename</h1>
         </header>
-        <div class="login-box">
-            <a href="join2.html" class="btn btn-default btn-lg leftBtn" role="button">회원가입</a>
-            <a href="login2.html" class="btn btn-default btn-lg" role="button">로그인</a>
+        <div class="select-btn">
+            <a href="join2.html" class="btn btn-primary btn-lg" role="button">회원가입</a>
+            <a href="login2.html" class="btn btn-secondary btn-lg" role="button">로그인</a>
+        </div>
         </div>
     </div>
 </body>

@@ -1,36 +1,54 @@
 .page-wrapper {
     width: 90%;
-    max-width: 1400px;
-    height: 90vh;
-	margin: 70px auto 0 auto;
-
+    max-width: 1200px;
+    /* height: 90vh;
+	margin: 10vh auto 0 auto; */
+    display: flex;
+    align-items: center;
+    padding-top: 72px;
+    margin: 0 auto;
 }
 
 .sell iframe {
-    width: 90%;
-    height: 90vh;
+    width: 100%;
+    height: calc(97vh - 70px);
     max-width: 950px;
+    border: 2px solid #4F86C6;
 }
 
 .sell article {
-	margin-top: 10px;
-	width: 35%;
-    float: left;
+	/* margin-top: 10px; */
+	/* width: 35%; */
+    flex: 2;
 } 
 
 .sell aside {
     width: 60%;
-    margin-top: 15vh;
-    float: right;
+    flex: 3;
+    padding-left: 7%;
+}
+
+table {
+    background-color: #fff;
 }
 
 table th {
 	font-weight: bold;
+    padding-left: 5%;
+}
+table td:last-child{
+    width: 20%;
 }
 
 .product {
 	margin-bottom: 50px;
 }
-.input-group.sm {
+.input-group {
 	width: 150px;
+}
+
+.input-group-text {
+    background-color: transparent;
+    border: 0;
+    padding: .375rem .6rem;
 }

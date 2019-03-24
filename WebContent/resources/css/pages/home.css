@@ -61,3 +61,7 @@ body {
     color: #fff;
     margin-bottom: 45px;
 }
+
+.btn-outline-primary {
+	background-color: #fff;
+}

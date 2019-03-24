@@ -37,15 +37,15 @@ table {
     background-color: #fff;
 }
 
-table th {
+.sell table th {
 	font-weight: bold;
     padding-left: 5%;
 }
-table td:last-child{
+.sell table td:last-child{
     width: 20%;
 }
 
-.table td {
+.sell .table td {
     padding: 0;
 }
 
@@ -60,7 +60,7 @@ table td:last-child{
 	margin-bottom: 50px;
 }
 
-.input-group {
+.sell .input-group {
 	width: 150px;
 }
 

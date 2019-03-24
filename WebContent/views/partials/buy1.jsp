@@ -8,7 +8,7 @@
           <th></th>
           <th>상품명</th>
           <th>수량</th>
-          <th>요구 사항</th>
+          <th>전달 사항</th>
           <th>주문 상태</th>
         </tr>
       <tbody>

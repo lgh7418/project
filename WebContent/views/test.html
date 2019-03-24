@@ -50,11 +50,68 @@
           <div class="tab-content" id="v-pills-tabContent">
             <div class="tab-pane fade active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
                 <!-- buy1.jsp -->
-                
+                <p class="font-navy"><b>주문 내역</b></p>
+                <p>2019년 3월 19일</p>
+                <table class="table table-sm">
+                  <thead class="thead-light">
+                    <tr>
+                      <th></th>
+                      <th>상품명</th>
+                      <th>수량</th>
+                      <th>요구 사항</th>
+                      <th>주문 상태</th>
+                    </tr>
+                  <tbody>
+                    <tr>
+                      <td class="sm"><input type="checkbox">
+                      <td>치유의 빵</td>
+                      <td>1개</td>
+                      <td>없음</td>
+                      <td>결제 완료</td>
+                    </tr>
+                    <tr>
+                      <td class="sm"><input type="checkbox">
+                      <td>Jacob</td>
+                      <td></td>
+                      <td></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td class="sm"><input type="checkbox">
+                      <td>Larry</td>
+                      <td></td>
+                      <td></td>
+                      <td></td>
+                    </tr>
+                  </tbody>
+                </table>
             </div>
             <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
               <!-- <%@include file="partials/buy_info.jsp" %> -->
-
+              <div class="">
+                  <form class="form-horizontal">
+                      <table class="">
+                          <tr>
+                            <th><label for="inputName">수령인</label></th>
+                            <td><input type="text" id="inputName" class="form-control" value="회원이름"></td>
+                          <tr>
+                            <th><label for="address">주소</label></th>
+                            <td><input type="text" class="form-control" id="address" placeholder="주소 검색"></td>
+                           </tr>
+                          <tr>
+                            <th>연락처</th>
+                             <td>
+                             <select>
+                               <option>010</option>
+                             </select>-
+                               <input type="text" class="" size="5">-
+                               <input type="text" class="" size="5">
+                             </td>
+                         </tr>
+                          <tr><td><button type="submit" class="btn btn-primary">수정</button></td></tr>
+                      </table>
+                  </form>
+                </div>
             </div>
             <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
               <%@include file="partials/sell1.jsp" %>

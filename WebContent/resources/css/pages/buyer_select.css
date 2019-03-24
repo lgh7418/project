@@ -22,8 +22,17 @@
 }
 
 .buy-input {
-	padding-top: 50px;
+	padding-top: 40px;
 	max-width: 300px;
+	height: calc(97vh - 70px);
+	position: relative;
+}
+
+.buy-input a.btn-primary {
+	position: absolute;
+	bottom: 3%;
+	border-radius: 0;
+	width: 100%;
 }
 
 .buy-input input.form-control {
@@ -111,21 +120,3 @@
 	height: 100%;
 }
 
-
-/* 
-.amount-box {
-	height: calc(1.5em + .5rem + 2px);
-}
-
-
-
-.amount-up {
-	height: calc((1.5em + .5rem - 1px) / 2 + 1px);
-	width: calc((1.5em + .5rem - 1px) / 2);
-	
-}
- */
-
-/* .buy aside input {
-    margin-bottom: 10px;
-} */

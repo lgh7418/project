@@ -39,6 +39,7 @@
 						</label>
 					</div>
 				</div>
+				<a class="btn btn-primary" href="#" role="button">주문하기</a>
 			</div>
 		</aside>
 	</div>

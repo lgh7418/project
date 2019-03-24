@@ -3,14 +3,15 @@
     <p class="font-navy"><b>주문 내역</b></p>
     <p>2019년 3월 19일</p>
     <table class="table table-sm">
-      <thead class="thead-light">
-        <tr>
+      <thead>
+        <tr class="th">
           <th></th>
           <th>상품명</th>
           <th>수량</th>
           <th>전달 사항</th>
           <th>주문 상태</th>
         </tr>
+      </thead>
       <tbody>
         <tr>
           <td class="sm"><input type="checkbox">

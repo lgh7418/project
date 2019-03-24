@@ -16,3 +16,7 @@
 .mypage-nav .table th:nth-child(2) {
     width: 50%;
 }
+
+.mypage-nav tr.th {
+	background-color: rgba(0,0,0,.05);
+}

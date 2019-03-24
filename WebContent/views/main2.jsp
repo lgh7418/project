@@ -2,7 +2,7 @@
 <%@include file="partials/header.jsp" %>
 <div class="home">
     <div class="container">
-        <h1 class="logo">편리한 주문, sitename</h1>
+        <h1 class="logo">편리한 주문, Marketlog</h1>
         <!-- <div class="login-box"> -->
             <!-- <p>땡땡땡님 반갑습니다.</p> -->
         <!-- </div> -->

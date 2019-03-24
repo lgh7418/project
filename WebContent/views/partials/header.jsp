@@ -17,17 +17,7 @@
 </head>
 <body>
   <header class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-<!--     <h3 class="header__logo">주문이지</h3>
-    
-    <nav>
-      <ul>
-       <li><a href="#" class="" role="button">마이페이지</a></li>
-        <li><a href="#" class="" role="button">구매하기</a></li>
-       <li><a href="#" class="" role="button">판매하기</a></li>
-      </ul>
-    </nav> -->
-	<!-- <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark"> -->
-    	<a class="navbar-brand" href="main2.jsp" >LOGO</a>
+    	<a class="navbar-brand" href="main2.jsp" ><img src="../resources/images/logo.png" alt="logo" width="230px"></a>
     	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle Navigation">
 			<span class="navbar-toggler-icon"></span>
 		</button>	

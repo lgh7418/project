@@ -1,26 +1,26 @@
-.join-form {
+.login-form {
     margin: 0 auto;
     width: 300px;
     padding-top: 30vh;
 }
 
-.join-table .form-control {
+.login-table .form-control {
     width: 300px;
 }
 
-.join-form tr {
+.login-form tr {
     padding-bottom: 20px;
 }
 
-.join-table {
+.login-table {
     border-collapse: separate;
     border-spacing: 10px;
 }
-.join-table label {
+.login-table label {
     margin-top: .6rem;
     margin-bottom: 0;
 }
-.join-table .btn-primary {
+.login-table .btn-primary {
     width: 100%;
     margin-top: .6rem;
 }
